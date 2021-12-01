@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jasper-Yang-715
+- 👋 Hi, I’m @Jasper-Yang
 - 👀 I’m interested in programming with Java, C, Python
 - 🌱 I’m currently learning at Dalhousie year 4.
 - 💞️ I’m looking to collaborate on ...
