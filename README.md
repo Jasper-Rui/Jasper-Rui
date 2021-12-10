@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jasper-Yang
-- 👀 I’m interested in programming with Java, C, Python
+- 👀 I’m interested in programming with Java, C
 - 🌱 I’m currently learning at Dalhousie year 4.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... by Haorui.Yang@dal.ca
