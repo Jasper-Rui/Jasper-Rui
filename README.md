@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning at Dalhousie year 4.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... by Haorui.Yang@dal.ca
-- Preparing for final till Dec 17th
 
 
 
