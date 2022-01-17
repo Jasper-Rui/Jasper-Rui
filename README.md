@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rohit Mittal
+### Hi there 👋 I'm Haorui Yang
 
 - 👀 I’m interested in programming with Java, C
 - 🌱 I’m currently learning at Dalhousie year 4.
