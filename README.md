@@ -18,7 +18,7 @@
 <img align="right" alt="GIF" src="https://github.com/rohitm17/rohitm17/blob/main/coder.gif" width="500"/>
 
 
-## MY GIT STATS
+## MY GIT STATUS
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jasper-Rui&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasper-Rui&hide=TeX&layout=compact)
 
